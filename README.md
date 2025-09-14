@@ -255,12 +255,12 @@ Use these placeholders in your email body:
 
 **Example:**
 ```
-Subject: Welcome {Name}!
+Subject: Welcome, Sunil!
 
 Body:
-Dear {Name},
+Dear Sharma ji,
 
-Thank you for joining us! Your email {Email} has been registered.
+Thank you for joining us! Your email sunil.shar@gmail.com has been registered.
 
 Best regards,
 The Team
@@ -384,3 +384,4 @@ For support or questions, please check the troubleshooting section or create an 
 [![GitHub forks](https://img.shields.io/github/forks/sunbyte16/email-automation-tool?style=social)](https://github.com/sunbyte16/email-automation-tool)
 
 </div>
+
