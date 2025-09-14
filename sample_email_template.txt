@@ -1,0 +1,24 @@
+Subject: Welcome to Our Newsletter!
+
+Body (Plain Text):
+Dear {Name},
+
+Welcome to our newsletter! We're excited to have you join our community.
+
+This is a personalized message for {Name} at {Email}.
+
+Best regards,
+The Newsletter Team
+
+---
+
+Body (HTML):
+<html>
+<body>
+<h2>Welcome to Our Newsletter!</h2>
+<p>Dear <strong>{Name}</strong>,</p>
+<p>Welcome to our newsletter! We're excited to have you join our community.</p>
+<p>This is a personalized message for <strong>{Name}</strong> at <em>{Email}</em>.</p>
+<p>Best regards,<br>The Newsletter Team</p>
+</body>
+</html>

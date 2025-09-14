@@ -1,0 +1,9 @@
+# Email Automation Tool Dependencies
+# Core email libraries (built-in with Python)
+# smtplib - for SMTP email sending
+# email - for email message construction
+# json - for JSON file handling
+# csv - for CSV file handling
+
+# Additional dependencies
+schedule==1.2.0  # For email scheduling functionality
